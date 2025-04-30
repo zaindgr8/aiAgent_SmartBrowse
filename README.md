@@ -10,9 +10,6 @@
 [![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://link.devmatesolutions.com/discord)
 [![Cloud](https://img.shields.io/badge/Cloud-☁️-blue)](https://cloud.devmatesolutions.com)
 [![Documentation](https://img.shields.io/badge/Documentation-📕-blue)](https://docs.devmatesolutions.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/gregpr07)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/mamagnus00)
-[![Weave Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fapp.workweave.ai%2Fapi%2Frepository%2Fbadge%2Forg_T5Pvn3UBswTHIsN1dWS3voPg%2F881458615&labelColor=#EC6341)](https://app.workweave.ai/reports/repository/org_T5Pvn3UBswTHIsN1dWS3voPg/881458615)
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser.
 
@@ -118,8 +115,6 @@ https://github.com/user-attachments/assets/171fb4d6-0355-46f2-863e-edb04a828d04
 
 [Prompt](https://github.com/devmatesolutions/browser-use/blob/main/examples/custom-functions/save_to_file_hugging_face.py): Look up models with a license of cc-by-sa-4.0 and sort by most likes on Hugging face, save top 5 to file.
 
-https://github.com/user-attachments/assets/de73ee39-432c-4b97-b4e8-939fd7f323b3
-
 <br/><br/>
 
 ## More examples
@@ -177,28 +172,10 @@ To learn more about the library, check out the [local setup 📕](https://docs.d
 
 Want to show off your Devmate Solutions swag? Check out our [Merch store](https://devmatesolutions.com/merch). Good contributors will receive swag for free 👀.
 
-## Citation
-
-If you use Browser Use in your research or project, please cite:
-
-```bibtex
-@software{browser_use2024,
-  author = {Devmate Solutions},
-  title = {Browser Use: Enable AI to control your browser},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/devmatesolutions/browser-use}
-}
-```
-
  <div align="center"> <img src="https://github.com/user-attachments/assets/06fa3078-8461-4560-b434-445510c1766f" width="400"/> 
- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/gregpr07)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/mamagnus00)
  
  </div>
 
 <div align="center">
 Made with ❤️ by Devmate Solutions
  </div>
-# aiAgent_SmartBrowse
