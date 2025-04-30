@@ -13,8 +13,6 @@
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser.
 
-
-
 # Quick start
 
 With pip (Python>=3.11):
@@ -164,15 +162,9 @@ To learn more about the library, check out the [local setup 📕](https://docs.d
 
 `main` is the primary development branch with frequent changes. For production use, install a stable [versioned release](https://github.com/devmatesolutions/browser-use/releases) instead.
 
----
-
 ## Swag
 
 Want to show off your Devmate Solutions swag? Check out our [Merch store](https://devmatesolutions.com/merch). Good contributors will receive swag for free 👀.
-
- <div align="center"> <img src="https://github.com/user-attachments/assets/06fa3078-8461-4560-b434-445510c1766f" width="400"/> 
- 
- </div>
 
 <div align="center">
 Made with ❤️ by Devmate Solutions
