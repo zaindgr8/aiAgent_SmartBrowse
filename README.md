@@ -13,9 +13,7 @@
 
 🌐 Browser-use is the easiest way to connect your AI agents with the browser.
 
-💡 See what others are building and share your projects in our [Discord](https://link.devmatesolutions.com/discord)! Want Swag? Check out our [Merch store](https://devmatesolutions.com/merch).
 
-🌤️ Skip the setup - try our <b>hosted version</b> for instant browser automation! <b>[Try the cloud ☁︎](https://cloud.devmatesolutions.com)</b>.
 
 # Quick start
 
