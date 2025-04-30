@@ -162,10 +162,6 @@ To learn more about the library, check out the [local setup 📕](https://docs.d
 
 `main` is the primary development branch with frequent changes. For production use, install a stable [versioned release](https://github.com/devmatesolutions/browser-use/releases) instead.
 
-## Swag
-
-Want to show off your Devmate Solutions swag? Check out our [Merch store](https://devmatesolutions.com/merch). Good contributors will receive swag for free 👀.
-
 <div align="center">
 Made with ❤️ by Devmate Solutions
  </div>
